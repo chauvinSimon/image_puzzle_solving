@@ -63,8 +63,7 @@ Instead of a **global optimization**, a **greedy approach** is followed here:
 ### Getting Started
 
 - to install Pillow:
- 
- - `> pip install Pillow`
+	- `> pip install Pillow`
 
 - if you already have a shuffled image you want to solve: place it at the root of the repo and name it `shuffled.png`
 	- else: choose the cuts you want to apply before randomly shuffling `original.png`
