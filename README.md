@@ -15,9 +15,9 @@
     - it represents the sum of **discontinuity** in the three colour channels when crossing the border
 - a **level** represents a group of pieces equally distant to the top-left corner
 
-| ![conventions of levels](docs/level_conventions.PNG "conventions of levels")  | 
+| ![conventions for 'levels'](docs/level_conventions.PNG "conventions for 'levels'")  | 
 |:--:| 
-| *conventions of levels* |
+| *conventions for 'levels'* |
 
 
 ## Problem Setting
@@ -55,9 +55,9 @@ Instead of a **global optimization**, a **greedy approach** is followed here:
 | *naming conventions for fitness matrix* |
 
 
-| ![threshold tuning to get n_cols and _rows](docs/threshold_tuning.PNG "threshold tuning to get n_cols and _rows")  | 
+| ![threshold tuning to get n_cols and n_rows](docs/threshold_tuning.PNG "threshold tuning to get n_cols and n_rows")  | 
 |:--:| 
-| *threshold tuning to get n_cols and _rows* |
+| *threshold tuning to get n_cols and n_rows* |
 
 
 ### Getting Started
